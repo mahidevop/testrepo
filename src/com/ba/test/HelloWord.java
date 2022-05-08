@@ -12,6 +12,7 @@ public class HelloWord {
 		
 		System.out.println("Thanks to the team");
 		System.out.println("Good morning");
+		System.out.println("Welcome to the new world");
 
 	}
 
