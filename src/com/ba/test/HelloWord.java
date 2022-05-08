@@ -9,6 +9,8 @@ public class HelloWord {
 	    int c=a+b;
 		
 		System.out.println("Welcome to Hello World");
+		
+		System.out.println("Thanks to the team");
 
 	}
 
